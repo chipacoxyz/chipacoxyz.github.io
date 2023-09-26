@@ -68,6 +68,10 @@ languages:
                   - Hola, **Chipaco** al micrófono, salutaciones.
 
                   - Aquí escribo sobre todo lo relacionado con las computadoras y la electrónica.
+            editPost:
+                URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+                Text: "Sugerir Cambios" # edit text
+                appendFilePath: true # to append file path to Edit link
 
 outputs:
     home:
