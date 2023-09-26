@@ -1,8 +1,8 @@
 ---
-title: "Hola mundo"
-summary: Un artículo tipo lorem ipsum genérico
-date: 2023-09-25
-tags: ["Holanda"]
+title: "[learn-log] 1"
+summary: Tengo que estudiar para el cuestionario del cursillo de este Sábado... Llegaré?
+date: 2023-09-26
+tags: ["learn-log"]
 ---
 
 
