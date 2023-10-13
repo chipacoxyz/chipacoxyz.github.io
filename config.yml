@@ -32,11 +32,11 @@ languages:
                 - name: Search
                   url: search/
                   weight: 2
-                - name: Series
+                - name: Interesting
                   url: collections
                   weight: 3
-                - name: Discord
-                  url: https://discord.gg/CAcSHHUN
+                - name: Email
+                  url: https://www.gnu.org/
                   weight: 4
 
     es:
@@ -54,20 +54,20 @@ languages:
                 - name: Buscar
                   url: search
                   weight: 2
-                - name: Series
+                - name: Interesante
                   url: collections
                   weight: 3
-                - name: Discord
-                  url: https://discord.gg/CAcSHHUN
+                - name: Email
+                  url: https://www.gnu.org/
                   weight: 4
         params:
             homeInfoParams:
               Title: "Blog de Chipaco 🖖"
               Content: >
 
-                  - Hola, **Chipaco** al micrófono, salutaciones.
+                  - Hola, **Chipaco** al habla, salutaciones.
 
-                  - Aquí escribo sobre todo lo relacionado con las computadoras y la electrónica.
+                  - Aquí escribo cosas que me gustan, computadoras y electrónica.
             editPost:
                 URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
                 Text: "Sugerir Cambios" # edit text
@@ -106,7 +106,7 @@ params:
         Content: >
                   - Hi, **Chipaco** at microphone, welcome.
 
-                  - Here I'll write about everything related with electronics and computers.
+                  - Here I'll write about everything I like, electronics and computers.
 
     socialIcons:
         - name: github
