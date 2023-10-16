@@ -33,7 +33,7 @@ languages:
                   url: search/
                   weight: 2
                 - name: Interesting
-                  url: collections
+                  url: interesting
                   weight: 3
                 - name: Email
                   url: https://www.gnu.org/
@@ -55,7 +55,7 @@ languages:
                   url: search
                   weight: 2
                 - name: Interesante
-                  url: collections
+                  url: interesante
                   weight: 3
                 - name: Email
                   url: https://www.gnu.org/
@@ -106,13 +106,15 @@ params:
         Content: >
                   - Hi, **Chipaco** at microphone, welcome.
 
-                  - Here I'll write about everything I like, electronics and computers.
+                  - I'll write about everything I like, electronics and computers.
 
     socialIcons:
         - name: github
           url: "https://github.com/chipacoxyz"
         - name: youtube
           url: "https://www.youtube.com/@chipacoxyz"
+        - name: CV
+          url: "https://www.gnu.org/"
         - name: Rss
           url: "index.xml"
 
